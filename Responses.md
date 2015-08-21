@@ -60,6 +60,8 @@ class UserController extends BaseController
 
 #### Responding With A Single Item
 
+[Check the fractal documentation on more info on Transformers](http://fractal.thephpleague.com/transformers/)
+
 ```php
 class UserController extends BaseController
 {
